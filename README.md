@@ -13,7 +13,6 @@
 │   └── zoomeyeQuery.py	#zoomeye查询批量获取资产
 
 ### 使用
-'''
 python zoomeyeQuery.py -h
 
 ************************************************************
@@ -41,4 +40,3 @@ optional arguments:
   
   -o , --file    Please input output file path. eg: output.txt
   
-  '''
