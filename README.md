@@ -40,4 +40,4 @@ optional arguments:
   
   -o , --file    Please input output file path. eg: output.txt
   
-![image](https://github.com/ltfafei/ZBG/blob/master/used.png)
+![image](https://github.com/ltfafei/ZBG/blob/master/images/used.png)
