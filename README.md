@@ -4,13 +4,13 @@
 ### 小项目结构：
 ├── ZBG
 
-│   ├── checkToken.py	  #检查token是否存在，不存在则登录获取
+│   ├── checkToken.py	   检查token是否存在，不存在则登录获取
 
-│   ├── config.py	      #配置zoomeye邮箱和密码
+│   ├── config.py	       配置zoomeye邮箱和密码
 
-│   ├── getToken.py	    #登录获取token
+│   ├── getToken.py	       登录获取token
 
-│   └── zoomeyeQuery.py	#zoomeye查询批量获取资产
+│   └── zoomeyeQuery.py	   zoomeye查询批量获取资产
 
 ### 使用
 python zoomeyeQuery.py -h
