@@ -40,3 +40,4 @@ optional arguments:
   
   -o , --file    Please input output file path. eg: output.txt
   
+[https://github.com/ltfafei/ZBG/blob/master/used.png]
