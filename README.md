@@ -4,7 +4,7 @@
 ### 小项目结构：
 ├── ZBG
 
-│   ├── checkToken.py	   &esp;#检查token是否存在，不存在则登录获取
+│   ├── checkToken.py	   #检查token是否存在，不存在则登录获取
 
 │   ├── config.py	       #配置zoomeye邮箱和密码
 
