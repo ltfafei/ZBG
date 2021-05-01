@@ -3,9 +3,13 @@
     
 ### 小项目结构：
 ├── ZBG
+
 │   ├── checkToken.py	  #检查token是否存在，不存在则登录获取
+
 │   ├── config.py	      #配置zoomeye邮箱和密码
+
 │   ├── getToken.py	    #登录获取token
+
 │   └── zoomeyeQuery.py	#zoomeye查询批量获取资产
 
 ### 使用
@@ -26,9 +30,15 @@ Zoomeye batch gather tools
 
 optional arguments:
   -h, --help     show this help message and exit
+  
   -q , --query   Please input query argument. eg: shiro
+  
   -p , --page    Please input start page. eg: 2
+  
   -n , --num     Please input max page. eg: 2
+  
   -F , --facet   Please input covariance item. eg: server
+  
   -o , --file    Please input output file path. eg: output.txt
+  
   '''
